@@ -1,6 +1,5 @@
 # customer-support-ai
 Customer support ai Project 
-# Customer Support AI
 
 ## 📌 Overview
 This project is a simple AI-based customer support system that generates responses to customer complaints.
@@ -23,7 +22,7 @@ This project is a simple AI-based customer support system that generates respons
    python app.py
 
 ## 🌐 Live Demo
-(Add your Hugging Face link here after deployment)
+https://huggingface.co/spaces/Saurabhsharma15/customer-support-ai
 
 ## 📂 GitHub Repository
 This repository contains the complete source code.
